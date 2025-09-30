@@ -3,10 +3,15 @@
 Soy Juan Chacón, estudiante de Ingeniería en Sistemas en Guatemala. Me gusta mucho el Mundo de Programación, y como este se abre para Diseño Web, de Software, Gestión de Datos en la Nube, la optimización de procesos y la creación de soluciones de problemas, 
 
 El tener un desafio que superar es lo que me motiva a seguir programando. Comencé a programar desde joven, pero desde que entré a la universidad lo he tomado con más dedicación, trabajando tanto en proyectos académicos como en proyectos freelance junto a amigos para distintos clientes.
+<p align="left">
 
-📫 Correo: estebantrampej@gmail.com
-📷 Instagram: @the.dantee
-💻 GitHub académico (más activo): EstebanTrampe01
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40"/>
+ Correo: estebantrampej@gmail.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+ Instagram: @the.dantee
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+ GitHub académico (más activo): EstebanTrampe01
+</p>
 
 
 ## ⚒️ Lenguajes y Herramientas  
@@ -32,7 +37,6 @@ El tener un desafio que superar es lo que me motiva a seguir programando. Comenc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://aws-icons.com/icons/aws/aws.svg" width="40" height="40"/>
  <img src="https://logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="40" height="40"/>
 </p>
 
