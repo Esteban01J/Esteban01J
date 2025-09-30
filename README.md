@@ -7,7 +7,7 @@ El tener un desafio que superar es lo que me motiva a seguir programando. Comenc
 ---
 
 - Correo: estebantrampej@gmail.com
-- Instagram: @the.dantee [@the.dantee](https://www.instagram.com/the.dantee?igsh=MTJnMDczaTAycHlyeA==)
+- Instagram: [@the.dantee](https://www.instagram.com/the.dantee?igsh=MTJnMDczaTAycHlyeA==)
 - GitHub académico (más activo): [@EstebanTrampe01](https://github.com/EstebanTrampe01)
 
 ---
