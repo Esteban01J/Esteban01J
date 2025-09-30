@@ -4,12 +4,15 @@ Soy Juan Chacón, estudiante de Ingeniería en Sistemas en Guatemala. Me gusta m
 
 El tener un desafio que superar es lo que me motiva a seguir programando. Comencé a programar desde joven, pero desde que entré a la universidad lo he tomado con más dedicación, trabajando tanto en proyectos académicos como en proyectos freelance junto a amigos para distintos clientes.
 
- Correo: estebantrampej@gmail.com
- Instagram: @the.dantee
- GitHub académico (más activo): @EstebanTrampe01
+--
 
+- Correo: estebantrampej@gmail.com
+- Instagram: @the.dantee
+- GitHub académico (más activo): @EstebanTrampe01
 
-## ⚒️ Lenguajes y Herramientas  
+-- 
+
+Lenguajes y Herramientas  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
