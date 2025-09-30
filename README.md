@@ -32,7 +32,9 @@ El tener un desafio que superar es lo que me motiva a seguir programando. Comenc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amazon_Web_Services_Logo.svg" width="40" height="40"/>
+<img src="https://aws-icons.com/icons/aws/aws.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/Architecture-Service-Icons_07302021/Arch_Analytics/Arch_16/Amazon_Web_Services.svg" width="40" height="40"/>
+
 
 
 
