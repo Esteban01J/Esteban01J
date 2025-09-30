@@ -34,6 +34,22 @@ El tener un desafio que superar es lo que me motiva a seguir programando. Comenc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 <img src="https://aws-icons.com/icons/aws/aws.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/Architecture-Service-Icons_07302021/Arch_Analytics/Arch_16/Amazon_Web_Services.svg" width="40" height="40"/>
+# Prueba de íconos AWS
+
+Prueba de 10 enlaces diferentes para el ícono de Amazon Web Services (AWS):
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amazon_Web_Services_Logo.svg" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303083/aws-logo.svg" width="40" height="40"/>
+  <img src="https://logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="40" height="40"/>
+  <img src="https://aws-icons.com/icons/aws/aws.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/Architecture-Service-Icons_07302021/Arch_Analytics/Arch_16/Amazon_Web_Services.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Amazon_AWS_Logo.svg" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/amazonaws.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/A/aws-logo-1470A98A12-seeklogo.com.svg" width="40" height="40"/>
+</p>
 
 
 
